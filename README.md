@@ -2,7 +2,7 @@
 
 ### Olden
 
-The Olden benchmark is directly available in the [olden](olden) directory. It is forked from [compor/olden](https://github.com/compor/olden), with minor fixes to suppress compilation warnings and improve standard compliance.
+The Olden benchmark is directly available in the [olden](olden) directory. It is forked from [compor/olden](https://github.com/compor/olden), which is in turn based on [Olden from LLVM test-suite subproject](https://github.com/llvm/llvm-test-suite/tree/main/MultiSource/Benchmarks/Olden). We applied minor fixes to suppress compilation warnings and improve standard compliance.
 
 ### PtrDist
 
